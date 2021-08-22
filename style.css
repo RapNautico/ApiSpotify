@@ -1,0 +1,29 @@
+.container {
+    margin-top: 55px;
+}
+
+.audio{
+    width: 100%;
+}
+.card{
+    border-color: black;
+}
+.card-img-top{
+    width: 90%;
+    margin-left: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.btn-primary{
+    background-color: green;
+}
+h5{
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+audio{
+    text-align: center;
+    text-decoration: line-through;
+}
